@@ -1,0 +1,8 @@
+C:\Users\GeorgiosGerontakis\Desktop\Talos_Drones_Tracking_and_Telemetry\tracking and telemetry\Mavlink\bin\Release\netstandard2.0\MAVLink.deps.json
+C:\Users\GeorgiosGerontakis\Desktop\Talos_Drones_Tracking_and_Telemetry\tracking and telemetry\Mavlink\bin\Release\netstandard2.0\MAVLink.dll
+C:\Users\GeorgiosGerontakis\Desktop\Talos_Drones_Tracking_and_Telemetry\tracking and telemetry\Mavlink\bin\Release\netstandard2.0\MAVLink.pdb
+C:\Users\GeorgiosGerontakis\Desktop\Talos_Drones_Tracking_and_Telemetry\tracking and telemetry\Mavlink\obj\Release\netstandard2.0\MAVLink.csprojAssemblyReference.cache
+C:\Users\GeorgiosGerontakis\Desktop\Talos_Drones_Tracking_and_Telemetry\tracking and telemetry\Mavlink\obj\Release\netstandard2.0\MAVLink.AssemblyInfoInputs.cache
+C:\Users\GeorgiosGerontakis\Desktop\Talos_Drones_Tracking_and_Telemetry\tracking and telemetry\Mavlink\obj\Release\netstandard2.0\MAVLink.AssemblyInfo.cs
+C:\Users\GeorgiosGerontakis\Desktop\Talos_Drones_Tracking_and_Telemetry\tracking and telemetry\Mavlink\obj\Release\netstandard2.0\MAVLink.dll
+C:\Users\GeorgiosGerontakis\Desktop\Talos_Drones_Tracking_and_Telemetry\tracking and telemetry\Mavlink\obj\Release\netstandard2.0\MAVLink.pdb
